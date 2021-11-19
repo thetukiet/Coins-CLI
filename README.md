@@ -25,7 +25,7 @@ coins -V
 
 # View coins price command. Will check with latest tokens from transaction history(CSV log)
 coins view
-![Pic 1](screenshots/coins_1.png)
+![coins_1](screenshots/coins_1.png)
 
 # View specific tokens
 coins view --token=BTC,ETH
