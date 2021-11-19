@@ -47,7 +47,8 @@ Sample Run
 ---
 <br />
 
-### 4. View at specific date. Will check with tokens from transaction history at input date(CSV log)
+### 4. View at specific date
+Will check with tokens from transaction history at input date(CSV log)
 ```
 coins view --date=15-11-2021
 ```
