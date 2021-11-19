@@ -32,7 +32,8 @@ View coins price command. Will check with latest tokens from transaction history
 coins view
 ```
 Sample Run
-![Pic_1](screenshots/coins_1.png)
+
+<img src="screenshots/coins_1.png" width="80%">
 
 
 <br />
@@ -42,9 +43,9 @@ Sample Run
 coins view --token=BTC,ETH
 ```
 Sample Run
-![Pic 2](screenshots/coins_2.png)
 
----
+<img src="screenshots/coins_2.png" width="80%">
+
 <br />
 
 ### 4. View at specific date
@@ -53,7 +54,8 @@ Will check with tokens from transaction history at input date(CSV log)
 coins view --date=15-11-2021
 ```
 Sample Run
-![Pic 3](screenshots/coins_3.png)
+
+<img src="screenshots/coins_3.png" width="80%">
 
 
 <br />
@@ -63,8 +65,8 @@ Sample Run
 coins view --date=17-11-2021 --token=BTC,ETH,SOL
 ```
 Sample Run
-![Pic 4](screenshots/coins_4.png)
 
+<img src="screenshots/coins_4.png" width="80%">
 
 
 <br />
